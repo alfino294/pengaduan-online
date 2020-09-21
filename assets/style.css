@@ -1,0 +1,15 @@
+.navbar{
+    background-color: rgb(148, 205, 228);
+    color: white;
+
+}
+
+.jumbotron{
+    text-align: center;
+    color: white;
+    width: 100%;
+    background-image: url('img/bg.jpg');
+    background-repeat:no-repeat;
+    background-size: 100%;
+    background-position: bottom;
+}
